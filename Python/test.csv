@@ -1,0 +1,72 @@
+ID;Start time;Completion time;Email;Name;Last modified time;Name2;Technique;Mental Demand;Physical Demand;Temporal Demand;Performance;Effort;Frustration;Feedback
+1;5/28/25 14.16.01;5/28/25 14.17.35;anonymous;;;vidhi;HandRay;2;5;2;1;5;2;"effortless mapping and hand coordination, along with pretty effortless tasks.
+"
+2;5/28/25 14.17.37;5/28/25 14.18.56;anonymous;;;vidhi;Gaze + Pinch;5;4;2;2;4;3;"Hand movements and pinching is effortless but gaze movement is not very accurate. Overall good model. 
+"
+3;5/28/25 14.18.57;5/28/25 14.19.41;anonymous;;;vidhi;Look & Drop;5;1;2;2;6;4;"program works very good, excellent tracking and coordination between screen and eye.
+"
+4;5/28/25 14.19.42;5/28/25 14.20.55;anonymous;;;lauren;HandRay;1;2;1;1;2;1;"The technique was simple and nice. The movement feels nice and connected to the hands and allows for large and small adjustments alike. 
+"
+5;5/28/25 14.20.56;5/28/25 14.22.04;anonymous;;;lauren;Look & Drop;4;1;1;3;5;2;"I think the technique needs some getting used to it. Moving, scaling and rotating objects based on gaze feels weird at first. One thing that I noticed is that the anchor point is really important. For example when moving it made a big difference when I chose the corner of the square as the anchor point in comparison the to some point the in middle. Additonally, I think when scaling you should acutally grab the corner of the object. I instinctively looked to where I want the object to end, but since the handles were not on the object itself but outside it did not produce the scale that I would have expected. One last thing is that when rotating it is rather hard to judge the rotation just from the periphery.
+"
+6;5/28/25 14.22.06;5/28/25 14.22.53;anonymous;;;lauren;Gaze + Pinch;2;2;1;1;3;2;"Gaze+Pinch was nice but the eye tracking was a bit off. This meant that I sometimes struggled a bit with selecting the objects
+"
+7;5/28/25 14.22.54;5/28/25 14.24.02;anonymous;;;jeremy;Look & Drop;5;1;2;1;4;4;"Using the gaze to scale and translation task is really hard and I have to concentrate on the position I want to move/scale, however I feel like gaze can not work as I want, because the jitter of gaze.
+"
+8;5/28/25 14.24.04;5/28/25 14.25.01;anonymous;;;jeremy;HandRay;1;4;1;1;1;1;"this is much better than previously technique. I can use hand ray to control the handler precisely and feel more controlable.
+"
+9;5/28/25 14.25.02;5/28/25 14.25.39;anonymous;;;jeremy;Gaze + Pinch;2;1;1;1;1;1;"gaze is good for selecting objects and use the hand position to move and manipulate. but for scaling task, using gaze to select handler is a bit harder than hand ray.
+"
+10;5/28/25 14.25.44;5/28/25 14.26.38;anonymous;;;shakil;Look & Drop;4;1;1;2;4;3;Object selection was perfect. but when it comes to object scaling was little bit difficult 
+11;5/28/25 14.26.40;5/28/25 14.27.39;anonymous;;;shakil;Gaze + Pinch;2;3;1;1;2;2;"Eye selection was fast and I can precisely scale and rotate the objects with my hand. 
+"
+12;5/28/25 14.27.41;5/28/25 14.28.51;anonymous;;;shakil;HandRay;2;6;2;1;4;2;"The task was fairly easy enough with the hand ray 
+"
+13;5/28/25 14.28.52;5/28/25 14.30.10;anonymous;;;Jan Krenz;Gaze + Pinch;1;3;1;1;2;1;"Very responsive and easy to navigate 
+"
+14;5/28/25 14.30.17;5/28/25 14.31.20;anonymous;;;Jan Krenz;Look & Drop;5;1;2;1;3;4;"The least accurate when it comes to scaling
+"
+15;5/28/25 14.31.22;5/28/25 14.32.01;anonymous;;;Jan Krenz;HandRay;1;4;2;1;4;2;"Most accurate 
+"
+16;5/28/25 14.32.05;5/28/25 14.33.38;anonymous;;;Henining Lin;Gaze + Pinch;3;3;2;1;4;3;The small white interaction circles were small
+17;5/28/25 14.33.39;5/28/25 14.34.25;anonymous;;;Henning Lin;HandRay;1;5;1;1;3;1;Easy to do. Interaction is something i have more experience with
+18;5/28/25 14.34.27;5/28/25 14.35.44;anonymous;;;Henning Lin;Look & Drop;2;1;2;2;4;2;Gaze is not something i am used to but it has potiential to get better if people use it more often
+19;5/28/25 14.35.47;5/28/25 14.36.43;anonymous;;;Roxana Olaru;HandRay;2;4;2;1;2;1;"The rotation, scaling and moving with HandRay were really smooth and the test steps were presented clear.
+"
+20;5/28/25 14.36.46;5/28/25 14.38.08;anonymous;;;Roxana Olaru;Gaze + Pinch;3;3;2;2;4;3;"The steps were clear, but gaze+pinch was more demanding than the HandRay one - both physically and mentally but still good.
+"
+21;5/28/25 14.38.12;5/28/25 14.39.06;anonymous;;;Roxana Olaru;Look & Drop;4;1;1;2;4;3;"The look and drop was really convenient for moving the objects, but challenging for scaling and especially rotating. However, if you get used to it, after few minutes it becomes easier.
+"
+22;5/28/25 15.50.30;5/28/25 15.51.33;anonymous;;;Ginés Carreto Picón;HandRay;3;2;5;5;5;5;I managed to complete the task, but I selected the wrong transformation a couple of times
+23;5/28/25 15.58.19;5/28/25 15.59.11;anonymous;;;Ginés Carreto Picón;Look & Drop;6;3;4;4;5;5;I think the performance was quite smooth, even though it may feel unintuitive at the beginning 
+24;5/28/25 16.03.56;5/28/25 16.05.02;anonymous;;;Ginés Carreto Picón ;Gaze + Pinch;2;2;3;2;3;2;I think this combines the best of both worlds. I can look anywhere and the interaction only starts when pinching. Moreover, I can look where I can move my object to with the eyes and move it with the hand.
+25;5/28/25 16.52.59;5/28/25 16.54.50;anonymous;;;Lars Borchert;Look & Drop;3;5;2;5;5;5;There was a learning curve: I would often not release my pinch in tine and change the selection with my gaze, needing to redo things. I also found I instinctively wanted to move ny head instead of my eyes, which made it tricky. Precise control was difficult but I felt like I could do broad motions well
+26;5/28/25 17.00.01;5/28/25 17.01.15;anonymous;;;Lars Borchert;HandRay;4;6;2;5;5;5;I found my pinches were not always registered the way I thought they would be. I also found that after doing the gaze technique, I was used to it and kept trying to control the program with my eyes instead of just my fingers 
+27;5/28/25 17.06.08;5/28/25 17.08.51;anonymous;;;Lars Borchert;Gaze + Pinch;4;4;2;5;5;5;It was more “intuitive” but I felt I had less control. I felt like the program had its own will and I had some influence on it but it wasn’t just me controlling it, in a way. My eyes and hands weren’t quite working together but almost 
+28;5/29/25 12.29.16;5/29/25 12.31.22;anonymous;;;Kasper Rytter ;Look & Drop;5;2;4;1;5;5;I've never used my eyes like this before, so it was quite frustrating and difficult in the beginning, but I ended up being fast and fairly precise 
+29;5/29/25 12.31.27;5/29/25 12.33.37;anonymous;;;Kasper Rytter ;Gaze + Pinch;3;3;4;1;3;2;I would say that this technique was the one I got best at both in speed and precision. It was at times a bit difficult to reach the small dots
+30;5/29/25 12.33.39;5/29/25 12.35.35;anonymous;;;Kasper Rytter ;HandRay;2;2;4;3;1;4;I think it would be easier, if the speed when expanding the box would be slower 
+31;5/29/25 13.45.38;5/29/25 13.47.36;anonymous;;;Jacob Kristensen;Gaze + Pinch;1;1;2;2;2;2;This was the easiest one to use. It felt most intuitive and easy. I liked the combination of gaze and pinch. It was also the easiest one to be precise in, I felt. 
+32;5/29/25 13.47.39;5/29/25 13.51.00;anonymous;;;Jacob Kristensen;HandRay;2;2;2;1;2;1;This one felt about as easy as gaze and pinch. This also felt intuitive to me. 
+33;5/29/25 13.51.02;5/29/25 13.56.15;anonymous;;;Jacob Kristensen;Look & Drop;3;1;3;2;4;3;This one was the most difficult. Small eye movements produce large changes, especially when rotating objects, which made it more difficult. However, it was easier to do than I expected. I likewise had to give more consideration as to where I put my eyes on the object itself, e.g, in the center, so it would be put where I put my eyes. 
+37;5/30/25 10.36.15;5/30/25 10.37.36;anonymous;;;Oliver Thull;HandRay;2;2;3;3;2;3;doing very small adjustments for scaling was hard
+38;5/30/25 10.43.50;5/30/25 10.44.42;anonymous;;;Oliver Thull;Gaze + Pinch;5;3;3;3;3;4;It felt disconnected because only the selection was with the eyes. 
+39;5/30/25 10.51.26;5/30/25 10.52.19;anonymous;;;Oliver Thull;Look & Drop;5;5;3;4;5;4;The placing of the objects was fast and easy but scaling felt really annoying. 
+40;5/30/25 15.36.20;5/30/25 15.38.49;anonymous;;;Magnus Bendtsen;HandRay;2;5;2;2;4;3;I got a bit annoyed for the precision because my wrist started to hurt. But other than that it was good and pretty easy
+41;5/30/25 16.01.39;5/30/25 16.03.11;anonymous;;;Magnus Bendtsen;Look & Drop;4;6;2;2;6;5;Wrist hurts and the calibration should be good
+42;5/30/25 16.03.45;5/30/25 16.05.58;anonymous;;;Magnus Bendtsen;Gaze + Pinch;6;3;2;5;5;6;Wrist still hurts a bit if you don't adjust. But it was very demanding on your head and eyes using the VR.
+43;5/30/25 16.38.25;5/30/25 16.40.35;anonymous;;;Kristina Deardorff;Look & Drop;3;5;2;4;5;2;I wanted to use my hands more so it felt very limiting to only pinch with them 
+44;5/30/25 17.09.15;5/30/25 17.10.37;anonymous;;;Kristina Deardorff;HandRay;2;2;2;2;3;2;Easy to use but slightly slow/tedious 
+45;5/30/25 17.10.49;5/30/25 17.11.39;anonymous;;;Kristina Deardorff;Gaze + Pinch;1;1;2;1;1;1;Felt very efficient to use 
+46;6/2/25 14.03.27;6/2/25 14.06.45;anonymous;;;Bjørk Wendelboe Bjorholm ;Look & Drop;6;3;4;4;5;5;It worked surprisingly well, but it was a bit difficult both looking at the object, to see what It was dooing, and at the point in space you wanted It to go
+47;6/2/25 14.20.47;6/2/25 14.21.56;anonymous;;;Bjørk Wendelboe Bjorholm ;Gaze + Pinch;4;4;3;2;3;3;It was easier to scale and rotate when you could simultaneously look at the figure. 
+48;6/2/25 14.22.07;6/2/25 14.23.43;anonymous;;;Bjørk Wendelboe Bjorholm ;HandRay;3;4;2;1;3;2;When remembering to keep my hand visible, it was easy to scale and rotere.
+49;6/2/25 20.04.13;6/2/25 20.06.04;anonymous;;;Magnus pors;Gaze + Pinch;2;3;2;1;3;1;It was really cool, and the Learning was pretty Quick and it felt fluent, only small Thing was small boxes getting the Middle, but can easily manage with the corners.
+50;6/2/25 20.19.17;6/2/25 20.20.39;anonymous;;;Magnus pors;Look & Drop;3;1;2;1;2;2;This was really cool as well. Getting the feel for using the green ball, when adjusting position and scale was pretty Quick to Learn
+51;6/2/25 20.20.54;6/2/25 20.22.30;anonymous;;;Magnus Pors;HandRay;3;4;2;3;3;2;Very smooth controls as well, and nice integration and the tracking and functions very neat
+52;6/2/25 21.06.41;6/2/25 21.07.58;anonymous;;;Mikkel Tylvad Linde;Gaze + Pinch;1;1;1;3;2;1;It was great overall. The hand coordination was a little hard to get perfect, because it's very sensitive 
+53;6/2/25 21.16.23;6/2/25 21.17.55;anonymous;;;Mikkel Tylvad Linde;HandRay;1;3;1;4;3;2;It worked fine, it was somewhat easier to than the gaze + pinch
+54;6/2/25 21.31.57;6/2/25 21.32.42;anonymous;;;Mikkel Tylvad Linde;Look & Drop;1;5;1;2;2;3;You get a lot of eye strain, but otherwise it works just fine 
+55;6/3/25 11.03.17;6/3/25 11.04.54;anonymous;;;Marie Trippel;HandRay;5;1;3;4;3;6;The manipulation was easy but it was really hard to be exact which was frustrating at times
+56;6/3/25 11.19.15;6/3/25 11.22.36;anonymous;;;Marie Trippel ;Gaze + Pinch;6;6;2;2;6;7;I felt this was really annoying because I sometimes didn't keep track of my hands after manipulating an object and then when I wanted to manipulate other objects my hand was not in a good position. I know that I could just fix by rebasing it, but I felt it was annoying 
+57;6/3/25 11.22.46;6/3/25 11.24.31;anonymous;;;Marie Trippel ;Look & Drop;6;1;3;2;6;4;It was not that easy because I'm not used to it, but it was quite satisfying and when I was in a flow (and the headset was sitting well) it was really fast

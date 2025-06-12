@@ -1,0 +1,17 @@
+ID,Feedback on the application,compound_score,positive_score,neutral_score,negative_score,sentiment_category
+1,"good, effortless scaling, rotation and movement. Very smooth working of the program.",0.4404,0.209,0.791,0.0,Positive
+2,"In general the application was nice but there were a couple of things that I would improve. For one it is a bit weird that there are buttons that don't do anything. Also, I think that when initially spawning the objects it would be better to drag them in and then rescale them instead of having the scaling from the very start active. The color picker was quite nice.",0.9309,0.217,0.728,0.055,Positive
+3,"For the application, i think the visual feedback can be explained more clear in vision. ",0.6318,0.301,0.699,0.0,Positive
+4,The application seems intuitive and interactive. ,0.0,0.0,1.0,0.0,Neutral
+5,"The application has a really nice design, the tutorial is clear, easy to follow, actions needed are intuitive. I also liked the choice of colors and the menu placement. ",0.8858,0.331,0.669,0.0,Positive
+7,"When drawing a shape, no distinct indication if the tool is selected correctly which was quite misleading. Otherwise, the UI was pretty clean ans easy to understand ",0.5584,0.251,0.6,0.148,Positive
+8,I think the interaction was intuitive. Maybe some sound effects when clicking could be nice. Or something to know when i use eraser or free hand or something.,0.8519,0.288,0.712,0.0,Positive
+9,I think the interaction is quite natural to me. Maybe it's a good idea to show tips sometimes if the user is stuck,0.5709,0.222,0.701,0.078,Positive
+10,It was overall fine. I have little VR experience so I don’t know what is just VR specific and what is the application. But I think one thing the application could improve is an indicator for which tool is currently selected.,0.6428,0.127,0.873,0.0,Positive
+11,"I think it was great, I have no prior experience with VR, but it was easy and intuitive. The UI is simple and good. I don't know too much about VR so I can't see how it should be improved ",0.93,0.306,0.66,0.034,Positive
+12,With a little practice it felt intuitive. I would add feedback to “show” that you’ve selected e.g. the objects tab. I didn’t have any problems. With some optimization it would be easily used for more people. ,0.3182,0.133,0.796,0.072,Positive
+13,"Works well, good ui, understandable",0.6124,0.625,0.375,0.0,Positive
+14,"2D worked great. easy to understand and use. 
+3d was a bit buggy.",0.7906,0.412,0.588,0.0,Positive
+15,The application was good. It was intuitive and easy to use if calibrated to your hand and eyes. Though it is a bit rough on the wrist and you have to get used to it,0.8402,0.225,0.775,0.0,Positive
+16,"Overall, it was an interesting experience for someone using VR for the first time, however it was surprisingly easy to use with the guidance of the tutorial, and everything worked nicely.",0.8658,0.284,0.716,0.0,Positive
