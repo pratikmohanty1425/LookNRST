@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - IntObject
+  - Target
+  - Rot
+  - t1
+  - t2
+  - t3
+  - Canvas
+  - X
+  - Y
+  - NX
+  - NY
+  - XY
+  - NXNY
+  - NXY
+  - XNY
+  - Hover
+  - Line
+  - DrawnLine
+  - Circle
+  - UI
+  - Destroy
+  - Color
+  - ColorPicker
+  - Squares
+  - Circles
+  - Triangles
+  - Capsules
+  - Shape
+  - Anchor
+  - Hexagon
+  - Pen
+  - HandDrawn
+  - DrawnPoint
+  - DrawingPoint
+  - MultiSelect
+  - HandRay
+  - GazePinch
+  - LooknDrop
+  - Voice
+  - 3D2D
+  - Target3D
+  - Z
+  - NZ
+  - YZ
+  - XZ
+  - XNZ
+  - YNZ
+  - NXZ
+  - NYZ
+  - NXNZ
+  - NYNZ
+  - XYZ
+  - XYNZ
+  - NXYZ
+  - XNYNZ
+  - NXYNZ
+  - NXNYZ
+  - NXNYNZ
+  - XNYZ
+  - XRot
+  - YRot
+  - ZRot
+  - RotBall
+  - Sphere
+  - Mask
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1
+    uniqueID: 29743739
+    locked: 0
+  m_RenderingLayers:
+  - Default
