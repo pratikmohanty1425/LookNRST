@@ -23,8 +23,7 @@ This Unity-based VR application supports manipulation tasks in both **2D and 3D*
 
 ## 🎯 Goals
 
-- Reduce **physical fatigue** during mid-air VR interactions.
-- Enable **precise, low-effort manipulation** using gaze.
+- Using 3 Different interactions technique for Object Manipulation
 - Compare three multimodal techniques through a **user study** with 18 participants.
 - Offer a **PowerPoint-like** interface for spatial design in VR.
 
