@@ -89,8 +89,8 @@ README.md
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/pratikmohanty1425/MsThesis.git
-   cd MsThesis
+   git clone https://github.com/pratikmohanty1425/LookNRST.git
+   cd LookNRST
    ```
 
 2. Open in **Unity 2023+** with Meta XR SDK installed.
